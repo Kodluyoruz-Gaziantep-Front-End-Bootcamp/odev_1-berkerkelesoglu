@@ -128,5 +128,5 @@ console.log(sumID(arr3))
 # Description
 *In this homework, I completed all the task by using JavaScript array methods.*
 
-#Author
+# Author
 **berkerkelesoglu**
